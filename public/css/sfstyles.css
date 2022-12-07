@@ -1,0 +1,38 @@
+/* Success and Failure CSS */
+
+html,
+body {
+    height: 100%;
+}
+
+.success-img {
+    width: 30%;
+    justify-content: center;
+    display: flex;
+}
+
+.trip-img {
+    justify-content:center;
+    display: flex;
+}
+
+.img-box {
+    position: relative;
+    left: 36%;
+    top: 20%;
+}
+
+.button-form {
+    position: relative;
+    top: 20%;
+}
+
+.button {
+    position: relative;
+    border-radius: 8px;
+    background-color: orange;
+    padding: 5px;
+    margin: 40px;
+    left: 45%;
+    bottom: 50%;
+}
